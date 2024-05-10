@@ -10,7 +10,7 @@ public class Exercise03 {
 
         double lengthOfSquare = sc.nextDouble();
 
-        double circumference = lengthOfSquare * 2;
+        double circumference = lengthOfSquare * 4;
 
         double area = lengthOfSquare * lengthOfSquare;
 
